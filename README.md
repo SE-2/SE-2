@@ -65,7 +65,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Flutter][Flutter.js]][Flutter-url]
+* [![Flutter][Flutter.dov]][Flutter-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
