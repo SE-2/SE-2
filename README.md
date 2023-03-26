@@ -55,6 +55,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+In this system Users should be able to access their content and personalized offers by registering, creating and editing their profiles. This program should offer suggestions of books, music, movies and podcasts to the user. Users should be able to filter system suggestions based on different categories and genres and add them to their favorites.
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
